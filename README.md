@@ -2,6 +2,10 @@
 
 Live News-Media mobile-responsive website with data from the MediaStack API and dark mode enabled
 
+- Dynamic page rendering by category and search 
+- Single-page website made mobile responsive (and dark mode) using React.js, Next.js 13, TypeScript and HTML5/Tailwind CSS. 
+- Live news content is populated from the MediaStack API
+
 ### User Story
 ```
 AS a consumer
