@@ -1,11 +1,11 @@
 # FakeNews Live News-Media App
 
-Real-time live News-Media mobile-responsive website with data from the MediaStack API and dark mode enabled
+Live News-Media mobile-responsive website with data from the MediaStack API and dark mode enabled
 
 ### User Story
 ```
 AS a consumer
-I WANT to see live news articles everytime I navigate to the website or refresh the page d 
+I WANT to see live news articles everytime I navigate to the website or refresh the page  
 SO THAT I can stay informed day-by-day, minute-by-minute
 I WANT to be able to navigate to specific articles via category or using the search input
 SO THAT I can quickly find articles pertaining to my interest or specific parameters
