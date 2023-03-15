@@ -1,27 +1,60 @@
-# Next.js + Tailwind CSS Example
+# FakeNews Live News-Media App
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Real-time live News-Media mobile-responsive website with data from the MediaStack API and dark mode enabled
 
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
+### User Story
+```
+AS a consumer
+I WANT to see live news articles everytime I navigate to the website or refresh the page d 
+SO THAT I can stay informed day-by-day, minute-by-minute
+I WANT to be able to navigate to specific articles via category or using the search input
+SO THAT I can quickly find articles pertaining to my interest or specific parameters
 ```
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+## Table of Contents
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+[Installation](#installation)
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+[Contribution](#contribution)
+
+[Gifs](#gifs)
+
+[Questions](#questions)
+
+----
+
+<a name="installation"></a>
+### Installation
+
+For local hosting:
+
+1. `git clone` this repository (for instructions see GitHub docs)
+2. run `npm run dev` in your terminal
+3. navigate to `http://localhost:3000` in your preferred browser to run the app
+
+<a name="contribution"></a>
+### Contribution
+
+Single contribution project 
+
+<a name="appDemo"></a>
+### App Demo
+
+<a href="https://www.youtube.com/watch?v=R5s3weDsFPE" target="_blank">
+  <img src="SneakerHead.png" alt="watch video" width=490 height=250 border=10 />
+</a>
+
+----
+
+<a name="questions"></a>
+### Questions
+##### Contact Me
+
+Feel free to contact me via GitHub or email with any feedback 
+
+[GitHub u/cliffordstevenson](https://github.com/cliffordstevenson)
+clifford.andrew.stevenson@gmail.com
+
+### License 
+
+[MIT License](LICENSE)
